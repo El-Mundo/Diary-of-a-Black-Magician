@@ -1,0 +1,17 @@
+* Please turn off NUMLOCK before starting 2-Player game!!!
+
+-----------------------------------
+Player 1:
+    W
+A  S  D            J     K
+-----------------------------------
+Player 2:
+     ↑
+← ↓ →          0(Numpad)
+-----------------------------------
+Pause:
+Enter
+-----------------------------------
+
+This game is only a programming practice and is not for any commercial use.
+External resources are included in this project folder.

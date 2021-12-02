@@ -1,0 +1,44 @@
+There might be unauthorized use of resources neglected as this project was produced years ago.
+This project will be removed as soon as possible if such use is informed.
+
+Background:
+Cloud - https://www.spriters-resource.com/snes/yoshiisland/sheet/83307/
+Font - http://www.zee-3.com/pickfordbros/blog/view.php?post=313
+Bushes - https://www.spriters-resource.com/snes/smarioworld/sheet/142424/
+Starry Night - https://www.spriters-resource.com/snes/smarioworld/sheet/4583/
+Corneria - https://www.spriters-resource.com/snes/starfox/sheet/1423/
+Controller - https://www.spriters-resource.com/snes/snestest/sheet/59532/
+Intro Border - https://www.spriters-resource.com/snes/smarioworld/sheet/65841/
+Yellow Flower - https://www.spriters-resource.com/snes/yoshiisland/sheet/4767/
+Small Cloud - https://www.spriters-resource.com/snes/smassmb3/sheet/65182/
+Huge Flowers - https://www.spriters-resource.com/snes/yoshiisland/sheet/115481/
+
+Effects:
+Font - https://www.spriters-resource.com/snes/smarioworld/sheet/4590/
+Explostion - https://www.spriters-resource.com/snes/kirbysuperstarkirbysfunpak/sheet/46072/
+Foods - https://www.spriters-resource.com/snes/kirbysuperstarkirbysfunpak/sheet/2876/
+Heart - https://www.spriters-resource.com/snes/legendofzeldaalinktothepast/sheet/82158/
+Magic Ball - https://www.spriters-resource.com/snes/kirbysuperstarkirbysfunpak/sheet/2853/
+
+Tiles:
+Jungle - https://www.spriters-resource.com/snes/yoshiisland/sheet/136575/
+Garden - https://www.spriters-resource.com/snes/yoshiisland/sheet/154267/
+
+Sprites:
+Hammer Bros. - https://www.spriters-resource.com/custom_edited/mariocustoms/sheet/31025/
+Other Enemies - https://www.spriters-resource.com/snes/yoshiisland/sheet/4767/
+Star - https://www.spriters-resource.com/snes/kirbysuperstarkirbysfunpak/sheet/46072/
+Fireball - https://www.spriters-resource.com/snes/smarioworld/sheet/53664/
+
+SFX:
+Miku - Vocaloid 4, Yamaha
+Ohter SFX - (ripped from) Super Mario World, Super Mario World 2: Yoshi's Island, Nintendo
+
+Music:
+Vampire Killer (Courtyard).mp3 - (Recorded from) Castlevania, Konami
+Story Music Box.mp3 - Super Mario World 2: Yoshi's Island, Nintendo
+お茶で一服(Tea Time).mp3 - Cotton 100%, Success
+エンジェルチャーチ(Stage 3).mp3 - Cotton 100%, Success
+Still, the Road is Full of Dangers.wav - Super Mario RPG, Nintendo & Square
+Fight Against an Armed Boss.mp3 - Super Mario RPG, Nintendo & Square
+Player Select.mp3 - Super Mario RPG, Nintendo & Square
